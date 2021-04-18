@@ -6,5 +6,5 @@ Create a report for the video game company, Heroes of Pymoli.
 
 Read a csv file and create dataframes.
 
-<img src="https://github.com/dmhitt/pandas-challenge/HeroesOfPymoliblob/master/Resources/report_sample.png"/>
+<img src="https://github.com/dmhitt/pandas-challenge/HeroesOfPymoli/Resources/report_sample.png"/>
 
